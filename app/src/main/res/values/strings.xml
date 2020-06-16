@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PokeApiApp</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="refresh">Refresh</string>
+    <string name="loading_please_wait">Loading, please wait...</string>
+    <string name="front_image">Front Image</string>
+    <string name="back_image">Back Image</string>
+    <string name="moves">Moves</string>
+    <string name="stats">Stats</string>
+    <string name="abilities">Abilities</string>
+    <string name="base_experience">Base Experience</string>
+    <string name="height">Height</string>
+    <string name="id">ID</string>
+    <string name="weight">Weight</string>
+    <string name="species">Species</string>
+    <string name="order">Order</string>
+    <string name="types">Types</string>
+    <string name="is_hidden">Is Hidden</string>
+    <string name="name">Name</string>
+    <string name="base_stat">Base Stat</string>
+    <string name="effort">Effort</string>
+    <string name="slot">Slot</string>
+    <string name="press_refresh_to_start">Press Refresh To Start</string>
+    <string name="something_bad_has_happened">Something Bad has Happened</string>
+</resources>
