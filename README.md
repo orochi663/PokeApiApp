@@ -1,2 +1,2 @@
 # PokeApiApp
-Simple Pokemon API client on Android using Async Task
+Simple Pokemon API (https://pokeapi.co/) client on Android using Async Task. 
